@@ -9,13 +9,14 @@ const students =[
    ,
     {
     name: "abel",
-    age: 30,
+    age: 35,
     gender: "male",
     education: "bachelor"
 },
 {
     name: "zeferu",
-    age: 35,
+    age: 45,
+
     gender: "male",
     education: "bachelor"
 }
